@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-1. Prepare the dataset by downloading the `fake_or_real_news.csv` file and placing it in the project directory.
+1. Prepare the dataset by unzipping the `fake_or_real_news.zip` file and placing it in the project directory.
 2. Run the `Text Generation AI.ipynb` notebook to train the model and generate new text.
 
 ## Model Architecture
